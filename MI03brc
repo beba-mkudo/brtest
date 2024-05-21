@@ -1,2 +1,2 @@
 MI03
-task_execution_role_arn = aws_iam_role.ecs_task.arn
+deleted
